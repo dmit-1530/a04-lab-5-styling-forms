@@ -10,7 +10,6 @@
     *   Validate both the HTML &amp; CSS and format code. 
 
 ## submissions
----
 
 *   Upload a zip (.zip) file of your work to Moodle, and upload your work to your Github Classroom repository.
 *   *Note:* Your mark will reflect a zero if your lab isn't upload to both Moodle and Github.
